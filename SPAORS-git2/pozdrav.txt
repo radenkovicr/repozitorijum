@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Zdravo, Petre Nikolicu!
-Zdravo i tebi!
-=======
 Zdravo, Petre!
-
->>>>>>> radovan-radenkovic-test-grana
+Zdravo i tebi !
